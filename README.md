@@ -1,2 +1,2 @@
-# demo.github.com
+# demo.github.io
 Demo site
